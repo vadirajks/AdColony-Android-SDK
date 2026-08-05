@@ -5,6 +5,9 @@ No release notes provided.
 ## 4.8.0 (2026/08/05)
 No release notes provided.
 
+## 4.8.0 (2026/08/05)
+No release notes provided.
+
 ## 4.8.0 (2022/06/07)
 * Added banner onShow callback
 * Fixed ConcurrentModificationException
