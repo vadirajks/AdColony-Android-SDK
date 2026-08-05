@@ -1,5 +1,5 @@
 # AdColony Android SDK
-* Modified: June 7th, 2022
+* Modified: August 5th, 2026
 * SDK Version: 4.8.0
 
 ## Overview
@@ -10,8 +10,7 @@ AdColony delivers zero-buffering, [full-screen, Instant-Play™ HD video](https:
 
 #### 4.8.0
 
-* Added banner onShow callback
-* Fixed ConcurrentModificationException
+No release notes provided.
 
 **Required update**
 **Due to policy changes from Google, publishers are required to use SDK version 4.4.0 or above.**
