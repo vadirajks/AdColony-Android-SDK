@@ -1,4 +1,7 @@
 # Change Log
+## 4.8.0 (2026/08/06)
+No release notes provided.
+
 ## 4.8.0 (2026/08/05)
 No release notes provided.
 
