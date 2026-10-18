@@ -1,4 +1,7 @@
 # Change Log
+## 4.8.3-jenkins-1792328385142 (2026/10/18)
+No release notes provided.
+
 ## 4.8.4-jenkins-1792136124893 (2026/10/16)
 No release notes provided.
 
